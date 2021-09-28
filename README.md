@@ -14,7 +14,17 @@
 
 
 ## Installation
+Express.js
 
+NoSQL
+
+IndexedDB
+
+MongoDB
+
+Mongoose
+
+Heroku
 
 ## Usage 
 
